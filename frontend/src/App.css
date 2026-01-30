@@ -1,0 +1,20 @@
+body {
+  background: #f6f7fb;
+}
+
+.container-narrow {
+  max-width: 900px;
+}
+
+.card {
+  border: 0;
+  border-radius: 14px;
+}
+
+.btn {
+  border-radius: 10px;
+}
+
+.form-control {
+  border-radius: 10px;
+}
